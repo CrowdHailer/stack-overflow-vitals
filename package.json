@@ -1,0 +1,26 @@
+{
+  "name": "stackoverflow_vitals",
+  "version": "0.0.0",
+  "description": "Capture a developers core stack overflow statistics",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CrowdHailer/stack-overflow-vitals.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/stack-overflow-vitals/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/stack-overflow-vitals",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
